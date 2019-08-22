@@ -1,5 +1,5 @@
-import React from 'react';
-import './ImageLinkForm.css';
+import React from 'react'
+import './ImageLinkForm.css'
 
 const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
   return (
@@ -14,7 +14,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
         </div>
       </div>
     </div>
-  );
+  )
 }
 
-export default ImageLinkForm;
+export default ImageLinkForm
